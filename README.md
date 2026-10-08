@@ -1,24 +1,14 @@
 # Multiple-Void-Wave-Mixing
-This repository contains the MATLAB processing codes associated with the study:
-"Collinear nonlinear longitudinal guided wave mixing for multiple grouting voids detection in post-tensioned prestressed concrete beam"
-## Contents
 
-- FFT_processing.m
-  FFT analysis and spectral peak extraction.
+This repository has been established to provide the MATLAB processing codes associated with the study “Multiple-Void-Wave-Mixing”:
 
-- nonlinear_parameter_calculation.m
-  Calculation of second- and third-order combination-harmonic nonlinear parameters.
+## Current status
 
-- CWT_localization.m
-  Continuous wavelet transform and arrival-time extraction.
-
-- Rd_calculation.m
-  Calculation of the Rd indicator.
+The key MATLAB processing codes used for FFT analysis, nonlinear-parameter calculation, Rd evaluation, continuous wavelet transform, and void localization will be made publicly available here upon formal publication of the article.
 
 ## Data availability
 
 The raw experimental data are not included in this repository because they form part of an ongoing research program and are subject to project-level data management and authorization restrictions.
-
 
 ## Software
 
